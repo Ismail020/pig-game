@@ -16,13 +16,3 @@ A dice game built with JavaScript
 # Acknowledgement
 
 Udemy The Complete JavaScript Course 2023: From Zero to Expert! by Jonas Schmedtmann.
-
-# Setup for local development
-
-Clone the repository to your device
-
-```bash
-git clone https://github.com/Ismail020/pig-game.git
-```
-
-Install a extension named [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) and run the project with it. Or you can just open the index.html file in your browser.
