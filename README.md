@@ -4,7 +4,7 @@ A dice game built with JavaScript
 
 # Preview
 
-![pig-game-preview](![pig_game](https://github.com/Ismail020/pig-game/assets/91133205/681ce0c7-1f7d-491e-895b-322deed07189))
+![pig_game](https://github.com/Ismail020/pig-game/assets/91133205/681ce0c7-1f7d-491e-895b-322deed07189)
 
 # Game Instructions
 
