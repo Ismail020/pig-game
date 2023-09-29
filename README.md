@@ -13,6 +13,12 @@ A dice game built with JavaScript
 - When the player rolls a 1, the score for the current round is lost and it is the next player's turn.
 - Repeat until a player reaches a score of 100 to win!
 
+# Setup for local development
+
+1. Clone the repo
+2. Open `index.html` in your browser
+3. Start playing!
+
 # Acknowledgement
 
 Udemy The Complete JavaScript Course 2023: From Zero to Expert! by Jonas Schmedtmann.
